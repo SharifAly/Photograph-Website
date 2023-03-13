@@ -1,0 +1,54 @@
+/* Contact Styling */
+
+
+.social-media-contact {
+  display: flex;
+  justify-content: space-around;
+  margin: 10rem 0 0 0;
+}
+
+
+
+.social-media-contact i {
+  color: whitesmoke;
+  font-size: 6rem;
+  padding: 1.1rem;
+}
+
+.social-media-contact i:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+}
+
+form {
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+  color: white;
+  font-size: 1.3rem;
+  width: 100%;
+  margin-top: 10rem;
+  margin-bottom: 20rem;
+}
+
+.form-input {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
+
+.button {
+  width: 10rem;
+  border-radius: 10px;
+  box-shadow: 0 0 2px white;
+  background-color: #524A41;
+  color: whitesmoke;
+}
+
+p {
+  margin: auto 0;
+}
+
+.navbar {
+  padding: 1.5% 0;
+}
